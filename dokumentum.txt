@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Horváth Patrik Kevin
+osztály: 9.B
